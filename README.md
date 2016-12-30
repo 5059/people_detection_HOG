@@ -1,6 +1,11 @@
-C++ - People detector using the HOG feature + sliding window
+# People Detector
+C++ - Simple people detector using the HOG feature + sliding window + SVM
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+### Prerequisites
 
-This software is provided "as is" without express or implied warranty, and with no claim as to its suitability for any purpose.
+OpenCV 3.1.0
+
+### Results
+
+[![Alt text](https://i.ytimg.com/vi/kzhDkG4bIpg/hqdefault.jpg)](https://www.youtube.com/watch?v=kzhDkG4bIpg)
 
